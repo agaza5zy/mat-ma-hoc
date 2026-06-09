@@ -26,9 +26,9 @@
 pip install gmpy2 sympy pytest
 ```
 
-### Chạy tệp gui_app.py:
+### Chạy tệp hastad_ui.py:
 ```bash
-python gui_app.py
+python hastad_ui.py
 ```
 
 
